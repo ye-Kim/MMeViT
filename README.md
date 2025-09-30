@@ -18,7 +18,6 @@ We propose a multimodal(3-axis accelerometer and gyrometer from IMU sensors, ske
 └─skeleton
         function.py             // functions for dealing skeleton data
         multi_feature.py        // features of skeleton data 
-        preprocess_function.py  // preprocessing functions of skeleton data
         
 ```
 
